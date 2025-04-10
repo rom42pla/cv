@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Electroencephalography;motors;brain Modeling;feature Extraction;convolutional Neural Networks;streams;brain-Computer Interfaces;motor Imagery;eeg Analysis;multi-Stream;1d Convolutional Neural Networks (1d Cnns);brain-Computer Interfaces (Bcis) | Romeo Lanzino</title>
+    <link>http://localhost:1313/tags/electroencephalographymotorsbrain-modelingfeature-extractionconvolutional-neural-networksstreamsbrain-computer-interfacesmotor-imageryeeg-analysismulti-stream1d-convolutional-neural-networks-1d-cnnsbrain-computer-interfaces-bcis/</link>
+      <atom:link href="http://localhost:1313/tags/electroencephalographymotorsbrain-modelingfeature-extractionconvolutional-neural-networksstreamsbrain-computer-interfacesmotor-imageryeeg-analysismulti-stream1d-convolutional-neural-networks-1d-cnnsbrain-computer-interfaces-bcis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Electroencephalography;motors;brain Modeling;feature Extraction;convolutional Neural Networks;streams;brain-Computer Interfaces;motor Imagery;eeg Analysis;multi-Stream;1d Convolutional Neural Networks (1d Cnns);brain-Computer Interfaces (Bcis)</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <title>Electroencephalography;motors;brain Modeling;feature Extraction;convolutional Neural Networks;streams;brain-Computer Interfaces;motor Imagery;eeg Analysis;multi-Stream;1d Convolutional Neural Networks (1d Cnns);brain-Computer Interfaces (Bcis)</title>
+      <link>http://localhost:1313/tags/electroencephalographymotorsbrain-modelingfeature-extractionconvolutional-neural-networksstreamsbrain-computer-interfacesmotor-imageryeeg-analysismulti-stream1d-convolutional-neural-networks-1d-cnnsbrain-computer-interfaces-bcis/</link>
+    </image>
+    
+    <item>
+      <title>Multi-Stream 1D CNN for EEG Motor Imagery Classification of Limbs Activation</title>
+      <link>http://localhost:1313/publication/access-24/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/access-24/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

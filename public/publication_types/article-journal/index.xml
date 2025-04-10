@@ -5,7 +5,7 @@
     <link>http://localhost:1313/publication_types/article-journal/</link>
       <atom:link href="http://localhost:1313/publication_types/article-journal/index.xml" rel="self" type="application/rss+xml" />
     <description>Article-Journal</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
       <title>Article-Journal</title>
@@ -13,10 +13,42 @@
     </image>
     
     <item>
+      <title>SATEER: Subject-Aware Transformer for EEG-Based Emotion Recognition</title>
+      <link>http://localhost:1313/publication/ijns-24/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ijns-24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distilled Gradual Pruning With Pruned Fine-Tuning</title>
+      <link>http://localhost:1313/publication/tai-24/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/tai-24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Stream 1D CNN for EEG Motor Imagery Classification of Limbs Activation</title>
+      <link>http://localhost:1313/publication/access-24/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/access-24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Novel Transformer-Based IMU Self-Calibration Approach through On-Board RGB Camera for UAV Flight Stabilization</title>
-      <link>http://localhost:1313/publication/s-23052655/</link>
+      <link>http://localhost:1313/publication/sensors-23/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/s-23052655/</guid>
+      <guid>http://localhost:1313/publication/sensors-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Novel GAN-Based Anomaly Detection and Localization Method for Aerial Video Surveillance at Low Altitude</title>
+      <link>http://localhost:1313/publication/remote-sensing-22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/remote-sensing-22/</guid>
       <description></description>
     </item>
     

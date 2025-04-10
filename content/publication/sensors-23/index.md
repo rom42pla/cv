@@ -10,7 +10,7 @@ authors:
 - Alessio Mecca
 - Francesco Scarcello
 date: '2023-01-01'
-publishDate: '2025-04-03T14:20:29.034034Z'
+publishDate: '2025-04-10T16:22:34.799299Z'
 publication_types:
 - article-journal
 publication: '*Sensors*'

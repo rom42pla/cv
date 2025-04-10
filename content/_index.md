@@ -15,21 +15,21 @@ sections:
       username: admin
       text: ""
       # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download CV
-        url: uploads/resume.pdf
+      # button:
+      #   text: Download CV
+      #   url: uploads/resume.pdf
     design:
       css_class: dark
-      background:
-        color: black
-        image:
-          # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
-          filters:
-            brightness: 1.0
-          size: cover
-          position: center
-          parallax: false
+      # background:
+      #   color: black
+      #   image:
+      #     # Add your image background to `assets/media/`.
+      #     filename: stacked-peaks.svg
+      #     filters:
+      #       brightness: 0.1
+      #     size: cover
+      #     position: center
+      #     parallax: false
   - block: resume-experience
     content:
       username: admin

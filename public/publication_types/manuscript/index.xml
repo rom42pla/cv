@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Manuscript | Romeo Lanzino</title>
+    <link>http://localhost:1313/publication_types/manuscript/</link>
+      <atom:link href="http://localhost:1313/publication_types/manuscript/index.xml" rel="self" type="application/rss+xml" />
+    <description>Manuscript</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <title>Manuscript</title>
+      <link>http://localhost:1313/publication_types/manuscript/</link>
+    </image>
+    
+    <item>
+      <title>CycleBNN: Cyclic Precision Training in Binary Neural Networks</title>
+      <link>http://localhost:1313/publication/cyclebnn-24/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/cyclebnn-24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NT-ViT: Neural Transcoding Vision Transformers for EEG-to-fMRI Synthesis</title>
+      <link>http://localhost:1313/publication/ntvit-24/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ntvit-24/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

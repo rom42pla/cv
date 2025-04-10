@@ -14,9 +14,17 @@
     
     <item>
       <title>Faster Than Lies: Real-time Deepfake Detection using Binary Neural Networks</title>
-      <link>http://localhost:1313/publication/lanzino-2024-cvpr/</link>
+      <link>http://localhost:1313/publication/cvprw-24/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/lanzino-2024-cvpr/</guid>
+      <guid>http://localhost:1313/publication/cvprw-24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LieToMe: An LSTM-Based Method for Deception Detection by Hand Movements</title>
+      <link>http://localhost:1313/publication/iciap-23/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/iciap-23/</guid>
       <description></description>
     </item>
     

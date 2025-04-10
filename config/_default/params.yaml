@@ -5,8 +5,9 @@
 
 # Appearance
 appearance:
-  mode: system
-  color: emerald
+  # mode: system
+  color: red
+  font: minimal
 
 # SEO
 marketing:
@@ -32,15 +33,15 @@ header:
     enable: true
     blox: "navbar"
     fixed_to_top: true
-    show_search: true
+    show_search: false
     show_theme_chooser: true
     logo:
-      text: "Your Name"
+      text: "Romeo Lanzino"
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Romeo Lanzino. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -49,7 +50,7 @@ footer:
 
 # Localization
 locale:
-  date_format: 'Jan 2, 2006'
+  date_format: '2 Jan 2006'
   time_format: '3:04 PM'
 
 # Site features

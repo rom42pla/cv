@@ -1,46 +1,100 @@
-@InProceedings{cvprw24,
-    author    = {Lanzino, Romeo and Fontana, Federico and Diko, Anxhelo and Marini, Marco Raoul and Cinque, Luigi},
-    title     = {Faster Than Lies: Real-time Deepfake Detection using Binary Neural Networks},
-    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
-    month     = {June},
-    year      = {2024},
-    pages     = {3771-3780},
-    url = {https://openaccess.thecvf.com/content/CVPR2024W/DFAD/papers/Lanzino_Faster_Than_Lies_Real-time_Deepfake_Detection_using_Binary_Neural_Networks_CVPRW_2024_paper.pdf}
+% 2024
+@article{ijns24,
+	title        = {{SATEER}: {Subject-Aware} Transformer for {EEG-Based} Emotion Recognition},
+	author       = {Lanzino, Romeo and Avola, Danilo and Fontana, Federico and Cinque, Luigi and Scarcello, Francesco and Foresti, Gian Luca},
+	year         = 2024,
+	month        = nov,
+	journal      = {Int J Neural Syst},
+	address      = {Singapore},
+	pages        = 2550002,
+	url          = {https://pubmed.ncbi.nlm.nih.gov/39560447/},
+	keywords     = {Electroencephalogram; deep learning; emotion recognition; neural network; transformer},
+	language     = {en}
 }
-
+@inproceedings{cvprw24,
+	title        = {Faster Than Lies: Real-time Deepfake Detection using Binary Neural Networks},
+	author       = {Lanzino, Romeo and Fontana, Federico and Diko, Anxhelo and Marini, Marco Raoul and Cinque, Luigi},
+	year         = 2024,
+	month        = {June},
+	booktitle    = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+	pages        = {3771--3780},
+	url          = {https://openaccess.thecvf.com/content/CVPR2024W/DFAD/papers/Lanzino_Faster_Than_Lies_Real-time_Deepfake_Detection_using_Binary_Neural_Networks_CVPRW_2024_paper.pdf}
+}
+@misc{ntvit24,
+	title        = {NT-ViT: Neural Transcoding Vision Transformers for EEG-to-fMRI Synthesis},
+	author       = {Romeo Lanzino and Federico Fontana and Luigi Cinque and Francesco Scarcello and Atsuto Maki},
+	year         = 2024,
+	url          = {https://arxiv.org/abs/2409.11836},
+	eprint       = {2409.11836},
+	archiveprefix = {arXiv},
+	primaryclass = {eess.IV}
+}
+@misc{cyclebnn24,
+	title        = {CycleBNN: Cyclic Precision Training in Binary Neural Networks},
+	author       = {Federico Fontana and Romeo Lanzino and Anxhelo Diko and Gian Luca Foresti and Luigi Cinque},
+	year         = 2024,
+	url          = {https://arxiv.org/abs/2410.00050},
+	eprint       = {2410.00050},
+	archiveprefix = {arXiv},
+	primaryclass = {cs.LG}
+}
+@article{access24,
+	title        = {Multi-Stream 1D CNN for EEG Motor Imagery Classification of Limbs Activation},
+	author       = {Avola, Danilo and Cinque, Luigi and Di Mambro, Angelo and Lanzino, Romeo and Pannone, Daniele and Scarcello, Francesco},
+	year         = 2024,
+	journal      = {IEEE Access},
+	volume       = 12,
+	number       = {},
+	pages        = {83940--83951},
+	doi          = {10.1109/ACCESS.2024.3412710},
+	url          = {https://ieeexplore.ieee.org/abstract/document/10552846},}
+@article{tai24,
+	title        = {Distilled Gradual Pruning With Pruned Fine-Tuning},
+	author       = {Fontana, Federico and Lanzino, Romeo and Marini, Marco Raoul and Avola, Danilo and Cinque, Luigi and Scarcello, Francesco and Foresti, Gian Luca},
+	year         = 2024,
+	journal      = {IEEE Transactions on Artificial Intelligence},
+	volume       = 5,
+	number       = 8,
+	pages        = {4269--4279},
+	doi          = {10.1109/TAI.2024.3366497},
+	url          = {https://ieeexplore.ieee.org/abstract/document/10438214},}
 % 2023
-
-@Article{sensors23,
-AUTHOR = {Avola, Danilo and Cinque, Luigi and Foresti, Gian Luca and Lanzino, Romeo and Marini, Marco Raoul and Mecca, Alessio and Scarcello, Francesco},
-TITLE = {A Novel Transformer-Based IMU Self-Calibration Approach through On-Board RGB Camera for UAV Flight Stabilization},
-JOURNAL = {Sensors},
-VOLUME = {23},
-YEAR = {2023},
-NUMBER = {5},
-ARTICLE-NUMBER = {2655},
-URL = {https://www.mdpi.com/1424-8220/23/5/2655},
-PubMedID = {36904859},
-ISSN = {1424-8220},
-ABSTRACT = {During flight, unmanned aerial vehicles (UAVs) need several sensors to follow a predefined path and reach a specific destination. To this aim, they generally exploit an inertial measurement unit (IMU) for pose estimation. Usually, in the UAV context, an IMU entails a three-axis accelerometer and a three-axis gyroscope. However, as happens for many physical devices, they can present some misalignment between the real value and the registered one. These systematic or occasional errors can derive from different sources and could be related to the sensor itself or to external noise due to the place where it is located. Hardware calibration requires special equipment, which is not always available. In any case, even if possible, it can be used to solve the physical problem and sometimes requires removing the sensor from its location, which is not always feasible. At the same time, solving the problem of external noise usually requires software procedures. Moreover, as reported in the literature, even two IMUs from the same brand and the same production chain could produce different measurements under identical conditions. This paper proposes a soft calibration procedure to reduce the misalignment created by systematic errors and noise based on the grayscale or RGB camera built-in on the drone. Based on the transformer neural network architecture trained in a supervised learning fashion on pairs of short videos shot by the UAV’s camera and the correspondent UAV measurements, the strategy does not require any special equipment. It is easily reproducible and could be used to increase the trajectory accuracy of the UAV during the flight.},
-DOI = {10.3390/s23052655}
+@article{sensors23,
+	title        = {A Novel Transformer-Based IMU Self-Calibration Approach through On-Board RGB Camera for UAV Flight Stabilization},
+	author       = {Avola, Danilo and Cinque, Luigi and Foresti, Gian Luca and Lanzino, Romeo and Marini, Marco Raoul and Mecca, Alessio and Scarcello, Francesco},
+	year         = 2023,
+	journal      = {Sensors},
+	volume       = 23,
+	number       = 5,
+	doi          = {10.3390/s23052655},
+	issn         = {1424-8220},
+	url          = {https://www.mdpi.com/1424-8220/23/5/2655},
+	article-number = 2655,
+	pubmedid     = 36904859,
+    }
+@inproceedings{iciap23,
+	title        = {LieToMe: An LSTM-Based Method for Deception Detection by Hand Movements},
+	author       = {Avola, Danilo and Cinque, Luigi and De Marsico, Maria and Di Mambro, Angelo and Fagioli, Alessio and Foresti, Gian Luca and Lanzino, Romeo and Scarcello, Francesco},
+	year         = 2023,
+	booktitle    = {Image Analysis and Processing -- ICIAP 2023},
+	publisher    = {Springer Nature Switzerland},
+	address      = {Cham},
+	pages        = {387--398},
+	isbn         = {978-3-031-43148-7},
+	url          = {https://link.springer.com/chapter/10.1007/978-3-031-43148-7_33},
+	editor       = {Foresti, Gian Luca and Fusiello, Andrea and Hancock, Edwin},
+	abstract     = {The ability to detect lies is a crucial skill in essential situations like police interrogations and court trials. At present, several devices, such as polygraphs and magnetic resonance, can ease the deception detection task. However, the effectiveness of these tools can be compromised by intentional behavioral changes due to the subject awareness of such appliances, suggesting that alternative ways must be explored to detect lies without using physical devices. In this context, this paper presents an approach focused on the extraction of meaningful features from hand gestures. The latter provide cues on the person's behavior and are used to address the deception detection task in RGB videos of trials. Specifically, the proposed system extracts hands skeletons from an RGB video sequence and generates novel handcrafted features from the extrapolated keypoints to reflect the subject behavior through hand movements. Then, a long short-term memory (LSTM) neural network is used to classify these features and estimate whether the person is lying or not. Extensive experiments were performed to assess the quality of the derived features on a public collection of famous real-life trials. On this dataset, the proposed system sets new state-of-the-art performance on the unimodal hand-gesture deception detection task, demonstrating the effectiveness of the proposed approach and its handcrafted features.}
 }
-
 % 2022
-
-@Article{remote_sensing22,
-AUTHOR = {Avola, Danilo and Cannistraci, Irene and Cascio, Marco and Cinque, Luigi and Diko, Anxhelo and Fagioli, Alessio and Foresti, Gian Luca and Lanzino, Romeo and Mancini, Maurizio and Mecca, Alessio and Pannone, Daniele},
-TITLE = {A Novel GAN-Based Anomaly Detection and Localization Method for Aerial Video Surveillance at Low Altitude},
-JOURNAL = {Remote Sensing},
-VOLUME = {14},
-YEAR = {2022},
-NUMBER = {16},
-ARTICLE-NUMBER = {4110},
-URL = {https://www.mdpi.com/2072-4292/14/16/4110},
-ISSN = {2072-4292},
-ABSTRACT = {The last two decades have seen an incessant growth in the use of Unmanned Aerial Vehicles (UAVs) equipped with HD cameras for developing aerial vision-based systems to support civilian and military tasks, including land monitoring, change detection, and object classification. To perform most of these tasks, the artificial intelligence algorithms usually need to know, a priori, what to look for, identify. or recognize. Actually, in most operational scenarios, such as war zones or post-disaster situations, areas and objects of interest are not decidable a priori since their shape and visual features may have been altered by events or even intentionally disguised (e.g., improvised explosive devices (IEDs)). For these reasons, in recent years, more and more research groups are investigating the design of original anomaly detection methods, which, in short, are focused on detecting samples that differ from the others in terms of visual appearance and occurrences with respect to a given environment. In this paper, we present a novel two-branch Generative Adversarial Network (GAN)-based method for low-altitude RGB aerial video surveillance to detect and localize anomalies. We have chosen to focus on the low-altitude sequences as we are interested in complex operational scenarios where even a small object or device can represent a reason for danger or attention. The proposed model was tested on the UAV Mosaicking and Change Detection (UMCD) dataset, a one-of-a-kind collection of challenging videos whose sequences were acquired between 6 and 15 m above sea level on three types of ground (i.e., urban, dirt, and countryside). Results demonstrated the effectiveness of the model in terms of Area Under the Receiving Operating Curve (AUROC) and Structural Similarity Index (SSIM), achieving an average of 97.2% and 95.7%, respectively, thus suggesting that the system can be deployed in real-world applications.},
-DOI = {10.3390/rs14164110}
-}
-
-
-
-
+@article{remote_sensing22,
+	title        = {A Novel GAN-Based Anomaly Detection and Localization Method for Aerial Video Surveillance at Low Altitude},
+	author       = {Avola, Danilo and Cannistraci, Irene and Cascio, Marco and Cinque, Luigi and Diko, Anxhelo and Fagioli, Alessio and Foresti, Gian Luca and Lanzino, Romeo and Mancini, Maurizio and Mecca, Alessio and Pannone, Daniele},
+	year         = 2022,
+	journal      = {Remote Sensing},
+	volume       = 14,
+	number       = 16,
+	doi          = {10.3390/rs14164110},
+	issn         = {2072-4292},
+	url          = {https://www.mdpi.com/2072-4292/14/16/4110},
+	article-number = 4110,
+    }

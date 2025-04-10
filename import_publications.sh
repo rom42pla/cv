@@ -1,1 +1,1 @@
-academic import --bibtex publications.bib --output content/publication/ --overwrite --compact --normalize 
+academic import --bibtex $1 --output content/publication/ --overwrite --compact --normalize 
